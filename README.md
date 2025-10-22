@@ -1,2 +1,2 @@
 # Business-_website.
-“A modern business website template built by Emmanuel.”
+“A modern business website template built by Emmanuel”
